@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xCVhpYm/in0010.png" group-title="General",Cine35mm
+https://live20.bozztv.com/giatv/giatv-live35mm/live35mm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xCVhpYm/in0010.png" group-title="General",CINE35mm Opc2
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RkXVSvDr/inbigtv2.png" group-title="General",BIG TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MwVlNw9WwWalYgFpOtiu90hidhwIDnNw5RsexKE_J87qVvCdAcu2ScqCi-BSgzS9yY8&usqp=CAU" group-title="General",VARIED TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SPbjllljkBcjyV-bG86yEZuIGBEsS3rG6A&s" group-title="General",LOCOMOTION TV
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",ZTV ANIME
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-retro-plus-cine-en-vivo.jpg" group-title="General",RETRO PLUS 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ScesUbHV-aMYDjL6TsdyJZRPRYckjFty_A&s" group-title="General",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/exNjR3MpGhPEPUitjYzswZf0d7XCmdASiSc3VTf5cNo10IC6Kgh_CJMkFlU--U3NvFw=w240-h480-rw" group-title="General",RETROX +
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbVsUi1r0FeY_FaGEnyUnG7jGZczggCgjCWcjJbPT8OwDnXcc9I0vfiLGRBBkZS0jkLw&usqp=CAU" group-title="General",RETROX
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/og_image/public/2023-05/tvretro-palmares-costa-rica.png.webp?itok=Bcs7bhqg" group-title="General",TV RETRO PALMARES
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZi5qjwSq79cNeiCVY30BVZSyKO63Hlm_zQ&s" group-title="General",GOGOPLAY
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://mi-television.com/img/logo_2024.png" group-title="General",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg" group-title="General",CIUDAD MAGICA
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfNrEKR73O3lew1Zl_-AqAgt28P1TFdBrTA&s" group-title="General",EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0z15g4--HI9hBbGX_iivyOLyqf2oNi0Epg&s" group-title="General",EnerGeek FAN
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=D3m0M3UCLWeb
