@@ -1,0 +1,36 @@
+#EXTM3U
+
+# 🎬 ACCIÓN
+#EXTINF:-1 tvg-id="PlutoAccion" tvg-name="Pluto TV Acción" tvg-logo="https://images.pluto.tv/channels/5f2c3e3f9b6b6e0007a7f6f3/colorLogoPNG.png" group-title="Acción",Pluto TV Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c3e3f9b6b6e0007a7f6f3/master.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeAction" tvg-name="Runtime Acción" tvg-logo="https://www.runtime.tv/images/logo.png" group-title="Acción",Runtime Acción
+https://dai.googlecdn.com/linear/hls/event/RuntimeAction/master.m3u8
+
+# 🎭 COMEDIA
+#EXTINF:-1 tvg-id="PlutoComedia" tvg-name="Pluto TV Comedia" tvg-logo="https://images.pluto.tv/channels/5f2c3e3f9b6b6e0007a7f6f5/colorLogoPNG.png" group-title="Comedia",Pluto TV Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c3e3f9b6b6e0007a7f6f5/master.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeComedy" tvg-name="Runtime Comedia" tvg-logo="https://www.runtime.tv/images/logo.png" group-title="Comedia",Runtime Comedia
+https://dai.googlecdn.com/linear/hls/event/RuntimeComedy/master.m3u8
+
+# 👶 INFANTILES
+#EXTINF:-1 tvg-id="PlutoKids" tvg-name="Pluto TV Niños" tvg-logo="https://images.pluto.tv/channels/5f2c3e3f9b6b6e0007a7f6f6/colorLogoPNG.png" group-title="Infantiles",Pluto TV Niños
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c3e3f9b6b6e0007a7f6f6/master.m3u8
+
+#EXTINF:-1 tvg-id="PlexKids" tvg-name="Plex Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Plex_logo_2022.svg/1200px-Plex_logo_2022.svg.png" group-title="Infantiles",Plex Kids
+https://linear-plex-kids-1.cdn.purplehaze.digital/plex/kids/playlist.m3u8
+
+# 👻 TERROR
+#EXTINF:-1 tvg-id="PlutoTerror" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5f2c3e3f9b6b6e0007a7f6f7/colorLogoPNG.png" group-title="Terror",Pluto TV Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c3e3f9b6b6e0007a7f6f7/master.m3u8
+
+#EXTINF:-1 tvg-id="RuntimeHorror" tvg-name="Runtime Horror" tvg-logo="https://www.runtime.tv/images/logo.png" group-title="Terror",Runtime Horror
+https://dai.googlecdn.com/linear/hls/event/RuntimeHorror/master.m3u8
+
+# 🎞 CLÁSICOS
+#EXTINF:-1 tvg-id="PlutoClasicos" tvg-name="Pluto TV Clásicos" tvg-logo="https://images.pluto.tv/channels/5f2c3e3f9b6b6e0007a7f6f8/colorLogoPNG.png" group-title="Clásicos",Pluto TV Clásicos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2c3e3f9b6b6e0007a7f6f8/master.m3u8
+
+#EXTINF:-1 tvg-id="PlexClasicos" tvg-name="Plex Clásicos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Plex_logo_2022.svg/1200px-Plex_logo_2022.svg.png" group-title="Clásicos",Plex Clásicos
+https://linear-plex-classics-1.cdn.purplehaze.digital/plex/classics/playlist.m3u8
